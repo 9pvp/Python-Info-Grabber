@@ -35,5 +35,5 @@
 <br>
 
 # Credits
- - **9pvp**   
- - [wodxgod Github](https://github.com/wodxgod)
+ - **wodxgod**   
+     - [wodxgod Github](https://github.com/wodxgod)
