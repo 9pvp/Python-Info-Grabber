@@ -35,5 +35,4 @@ For educational purposes **only**.
 <br>
 
 # Credits
-    - wodxgod for README layout cuz im to lazy to do it myself
     - [wodxgod Github](https://github.com/wodxgod)
