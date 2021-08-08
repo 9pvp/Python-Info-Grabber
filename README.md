@@ -1,7 +1,7 @@
 <h1 align="center">Python Info Grabber</h1>
 <p align="center">A info grabber written in Python 3.</p>
 
-<p align="center">For educational purposes 𝗼𝗻𝗹𝘆.
+<p align="center">For educational purposes 𝗢𝗡𝗟𝗬.
 
 # Requirements
  1. python3
