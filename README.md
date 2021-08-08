@@ -1,7 +1,7 @@
 <h1 align="center">Python Info Grabber</h1>
 <p align="center">A info grabber written in Python 3.</p>
 
-This version of the grabber only supports **Windows**.
+For educational purposes **only**.
 
 # Requirements
  1. python3
