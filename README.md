@@ -1,6 +1,3 @@
-# Python-Info-Grabber
-A simple info-grabber written in Python3
-
 <h1 align="center">Python Info Grabber</h1>
 <p align="center">A info grabber written in Python 3.</p>
 
