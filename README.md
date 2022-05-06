@@ -5,7 +5,7 @@
 
 # Requirements
  1. python3
- 2. requests ( Installed by using "pip install requests" in cmd )
+ 2. requests ( Installed by using "pip install requests" in terminal )
  3. discord_webhook ( Installed by using "pip install discord_webhook" in cmd )
  4. Send the script to your victim and make them run it.
 
